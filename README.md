@@ -10,8 +10,8 @@ ainda editando...
 <h4 align="center"> 
 	🚧  Bootstrap Select 🚀 Construido...J°@°2@2@  🚧
 </h4>
-<center><img src="https://tenor.com/view/minion-woohoo-yeah-excited-cheer-gif-5002827" width="500" height="500" /></center>
+<center><img src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" width="500" height="500" /></center>
 
-<center><img src="https://tenor.com/view/winning-dance-trump-gif-13295781" width="500" height="500" /></center>
+
 
                                         README. 💝
